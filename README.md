@@ -2,9 +2,9 @@
 My current NeoVim configurations for programming
 
 # packages
-Treesitter
-barbar
-ToggleTerm
-Catppuccin-mocha
-Nvim-web-devicons
-Lazy package manager
+Treesitter<br>
+barbar<br>
+ToggleTerm<br>
+Catppuccin-mocha<br>
+Nvim-web-devicons<br>
+Lazy package manager<br>
